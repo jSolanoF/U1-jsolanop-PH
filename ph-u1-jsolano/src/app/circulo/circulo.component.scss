@@ -1,0 +1,25 @@
+#infoCirculo {
+    text-align: center;
+    padding: 20px;
+    
+  }
+  
+  .image-container {
+    max-width: 60%;
+    display: block;
+    margin: auto;
+    border-radius: 10px;
+    overflow: hidden; 
+    box-shadow: 0 4px 8px rgba(112, 22, 230, 0.74); 
+    margin-top: 20px;
+    margin-bottom: 20px;
+  } 
+  
+  ion-img {
+    width: 100%;
+    display: block;
+  }
+ 
+  ion-card p {
+    text-align: justify;
+  }

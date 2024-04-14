@@ -1,0 +1,7 @@
+{
+  "name": "ph-u1-jsolano",
+  "integrations": {
+    "capacitor": {}
+  },
+  "type": "angular-standalone"
+}
